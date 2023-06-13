@@ -36,7 +36,6 @@ Döviz CLI Tool, anlık olarak döviz ve Bitcoin kurlarını takip etmenizi sağ
         
         -   Terminal uygulamasını açın ve aşağıdaki komutları sırasıyla çalıştırarak Go'yu yükleyin:
             
-            bashCopy code
             
             `sudo apt update
             sudo apt install golang` 
@@ -44,19 +43,16 @@ Döviz CLI Tool, anlık olarak döviz ve Bitcoin kurlarını takip etmenizi sağ
         -   Yükleme tamamlandıktan sonra, terminalde `go version` komutunu çalıştırarak yüklü olan Go sürümünü kontrol edin.
 2.  Döviz CLI Tool'u yerel bir dizine klonlayın:
     
-    bashCopy code
     
     `git clone https://github.com/sgok/doviz-cli-tool.git` 
     
 3.  Klonladığınız dizine gidin:
     
-    bashCopy code
     
     `cd doviz-cli-tool` 
     
 4.  Programı derleyin:
     
-    bashCopy code
     
     `go build doviz.go` 
     
@@ -65,7 +61,6 @@ Döviz CLI Tool, anlık olarak döviz ve Bitcoin kurlarını takip etmenizi sağ
 
 1.  Döviz CLI Tool dizinindeyken, aşağıdaki komutu çalıştırarak programı başlatın:
     
-    bashCopy code
     
     `./doviz` 
     
