@@ -120,7 +120,7 @@ func main() {
 	
 		table.Append([]string{"DOLAR", fmt.Sprintf("%.4f%s", usdVal, data.Currencies["USD/TRY"].Symbol), now})
 		table.Append([]string{"EURO", fmt.Sprintf("%.4f%s", eurVal, data.Currencies["EUR/TRY"].Symbol), now})
-		table.Append([]string{"GOLD", fmt.Sprintf("%.2f%s", goldVal, data.Currencies["GAU/TRY"].Symbol), now})
+		table.Append([]string{"ALTIN", fmt.Sprintf("%.2f%s", goldVal, data.Currencies["GAU/TRY"].Symbol), now})
 		table.Append([]string{"BITCOIN", fmt.Sprintf("%.3f%s", bitcoinVal, data.Currencies["BTC/USD"].Symbol), now})
 		fmt.Println("\033c")
 		table.Render()
