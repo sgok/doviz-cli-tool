@@ -1,7 +1,7 @@
 
 # Döviz CLI Tool
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sgok/doviz) ![GitHub stars](https://img.shields.io/github/stars/sgok/doviz?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/sgok/doviz-cli-tool) ![GitHub stars](https://img.shields.io/github/stars/sgok/doviz-cli-tool?style=social)
 
 Döviz CLI Tool, anlık olarak döviz ve Bitcoin kurlarını takip etmenizi sağlayan bir komut satırı aracıdır. Program, Go programlama dili kullanılarak geliştirilmiştir ve standart olarak USD/TRY, EUR/TRY, GAU/TRY ve BTC/USD kurlarını sunar.
 
