@@ -74,3 +74,33 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 ----------
 
 **Not:** Bu projenin gerçek zamanlı döviz ve Bitcoin verilerine bağlı olduğunu unutmayın. Programın çıktısı, kullanılan API hizmetinin sağladığı verilere dayanmaktadır ve her zaman güncel olmayabilir. API adresini kendinize göre değiştirebilir veya kendi API adresinizi kullanabilirsiniz. API Endpoint'inin sonsuza kadar ayakta kalacağının garantisini veremeyiz.
+
+Kendi API'sini kullanacaklar için örnek API çıktısı:
+`{
+    "time": {
+        "updated": "Jun 13, 2023 21:31:03 UTC+03:00"
+    },
+    "disclaimer": "Bu veriler sadece bilgilendirme amaçlıdır.",
+    "currencies": {
+        "USD/TRY": {
+            "name": "Dolar/Turkish Lira",
+            "rate": "23,6197",
+            "symbol": "₺"
+        },
+        "EUR/TRY": {
+            "name": "Euro/Turkish Lira",
+            "rate": "25,4847",
+            "symbol": "₺"
+        },
+        "GAU/TRY": {
+            "name": "Gold Gram/Turkish Lira",
+            "rate": "1.475,04",
+            "symbol": "₺"
+        },
+        "BTC/USD": {
+            "name": "Bitcoin/Dolar",
+            "rate": "25.898",
+            "symbol": "$"
+        }
+    }
+}`
