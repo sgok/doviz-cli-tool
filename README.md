@@ -76,7 +76,8 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 **Not:** Bu projenin gerçek zamanlı döviz ve Bitcoin verilerine bağlı olduğunu unutmayın. Programın çıktısı, kullanılan API hizmetinin sağladığı verilere dayanmaktadır ve her zaman güncel olmayabilir. API adresini kendinize göre değiştirebilir veya kendi API adresinizi kullanabilirsiniz. API Endpoint'inin sonsuza kadar ayakta kalacağının garantisini veremeyiz.
 
 Kendi API'sini kullanacaklar için örnek API çıktısı:
-`{
+```json
+{
     "time": {
         "updated": "Jun 13, 2023 21:31:03 UTC+03:00"
     },
@@ -103,4 +104,5 @@ Kendi API'sini kullanacaklar için örnek API çıktısı:
             "symbol": "$"
         }
     }
-}`
+}
+```
