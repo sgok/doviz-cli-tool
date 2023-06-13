@@ -16,7 +16,7 @@ Döviz CLI Tool, anlık olarak döviz ve Bitcoin kurlarını takip etmenizi sağ
 ## Gereksinimler
 
 -   İşletim Sistemi: Windows, macOS, Linux
--   [Go](https://golang.org/dl/) sürüm 1.15 veya üstü
+-   [Go](https://go.dev/dl/) sürüm 1.15 veya üstü
 
 ## Kurulum
 
@@ -24,12 +24,12 @@ Döviz CLI Tool, anlık olarak döviz ve Bitcoin kurlarını takip etmenizi sağ
     
     -   **Windows**:
         
-        -   İndirme sayfasına gidin: [https://golang.org/dl/](https://golang.org/dl/)
+        -   İndirme sayfasına gidin: [https://go.dev/dl/](https://go.dev/dl/)
         -   İndirilen `.msi` uzantılı dosyayı çalıştırın ve kurulum sihirbazını takip edin.
         -   Yükleme tamamlandıktan sonra, komut istemcisini yeniden başlatın ve `go version` komutunu çalıştırarak yüklü olan Go sürümünü kontrol edin.
     -   **macOS**:
         
-        -   İndirme sayfasına gidin: [https://golang.org/dl/](https://golang.org/dl/)
+        -   İndirme sayfasına gidin: [https://go.dev/dl/](https://go.dev/dl/)
         -   İndirilen `.pkg` uzantılı dosyayı çift tıklayarak kurulumu başlatın ve kurulum sihirbazını takip edin.
         -   Yükleme tamamlandıktan sonra, Terminal uygulamasını açın ve `go version` komutunu çalıştırarak yüklü olan Go sürümünü kontrol edin.
     -   **Linux**:
