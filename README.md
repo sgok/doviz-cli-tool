@@ -46,7 +46,7 @@ Döviz CLI Tool, anlık olarak döviz ve Bitcoin kurlarını takip etmenizi sağ
     
     bashCopy code
     
-    `git clone https://github.com/your-username/doviz-cli-tool.git` 
+    `git clone https://github.com/sgok/doviz-cli-tool.git` 
     
 3.  Klonladığınız dizine gidin:
     
